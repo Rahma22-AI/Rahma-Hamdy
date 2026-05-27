@@ -2,7 +2,7 @@
 
 # 👩‍💻 Rahma Hamdy
 
-**AI Engineering Student · Programmer · Game Developer**
+**AI Engineer · Programmer · Game Developer**
 
 *Building AI that thinks, games that feel, and systems that matter.*
 
